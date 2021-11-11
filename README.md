@@ -10,9 +10,6 @@
 Командный проект: 
 [код](https://github.com/MarciusCoreolan/courses) / [демо](https://courses01.herokuapp.com)
 
-Сольный проект:
-[код](https://github.com/MarciusCoreolan/network) / [демо](https://network222.herokuapp.com)
-
 <hr/>
 
 Experentia est optima magistra - Опыт есть лучший учитель
