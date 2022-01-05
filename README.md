@@ -16,7 +16,8 @@ Slider colapse https://marciuscoreolan.github.io/Cards_slider/
 Google books https://googlebooks302u023.herokuapp.com
 
 Командный проект: 
-[код](https://github.com/MarciusCoreolan/courses) / [демо](https://courses01.herokuapp.com)
+
+Courses https://courses01.herokuapp.com
 
 <hr/>
 
