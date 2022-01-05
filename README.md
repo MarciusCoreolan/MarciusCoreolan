@@ -6,9 +6,13 @@
 Мои контакты: [Telegram](https://t.me/Desert_Viper) [Gmail](Germes955@gmail.com)
 <hr/>
 Мои проекты:
+
 Todo list https://todo3333.herokuapp.com
+
 Vertical slider https://marciuscoreolan.github.io/Vertical_slider/
+
 Slider colapse https://marciuscoreolan.github.io/Cards_slider/
+
 Google books https://googlebooks302u023.herokuapp.com
 
 Командный проект: 
