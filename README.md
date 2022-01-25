@@ -3,21 +3,21 @@
 Меня зовут Ахмед
 <hr/>
 
-Мои контакты: [Telegram](https://t.me/Desert_Viper) [Gmail](Germes955@gmail.com)
+Мои контакты: [Telegram](https://t.me/Desert_Viper) / [Gmail](Germes955@gmail.com)
 <hr/>
 Мои проекты:
 
-Todo list [Код](https://github.com/MarciusCoreolan/todo) [Демо](https://todo2222222222.herokuapp.com)
+Todo list [Код](https://github.com/MarciusCoreolan/todo) / [Демо](https://todo2222222222.herokuapp.com)
 
-React chat [Код](https://github.com/MarciusCoreolan/React_chat) [Демо](https://reactchat222.herokuapp.com)
+React chat [Код](https://github.com/MarciusCoreolan/React_chat) / [Демо](https://reactchat222.herokuapp.com)
 
-Vertical slider [Код](https://github.com/MarciusCoreolan/Vertical_slider) [Демо](https://marciuscoreolan.github.io/Vertical_slider/)
+Vertical slider [Код](https://github.com/MarciusCoreolan/Vertical_slider) / [Демо](https://marciuscoreolan.github.io/Vertical_slider/)
 
-Slider colapse [Код](https://github.com/MarciusCoreolan/Cards_slider) [Демо](https://marciuscoreolan.github.io/Cards_slider/)
+Slider colapse [Код](https://github.com/MarciusCoreolan/Cards_slider) / [Демо](https://marciuscoreolan.github.io/Cards_slider/)
 
-Google books [Код](https://github.com/MarciusCoreolan/google_books) [Демо](https://googlebooks302u023.herokuapp.com)
+Google books [Код](https://github.com/MarciusCoreolan/google_books) / [Демо](https://googlebooks302u023.herokuapp.com)
 
-Courses [Код](https://github.com/MarciusCoreolan/courses) [Демо](https://courses01.herokuapp.com)
+Courses [Код](https://github.com/MarciusCoreolan/courses) / [Демо](https://courses01.herokuapp.com)
 
 <hr/>
 
