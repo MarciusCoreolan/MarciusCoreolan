@@ -8,10 +8,15 @@
 Мои проекты:
 
 Todo list https://todo2222222222.herokuapp.com
+
 React chat https://reactchat222.herokuapp.com
+
 Vertical slider https://marciuscoreolan.github.io/Vertical_slider/
+
 Slider colapse https://marciuscoreolan.github.io/Cards_slider/
+
 Google books https://googlebooks302u023.herokuapp.com
+
 Courses https://courses01.herokuapp.com
 
 <hr/>
