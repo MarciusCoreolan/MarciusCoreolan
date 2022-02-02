@@ -5,7 +5,7 @@
 
 Мои контакты: [Telegram](https://t.me/Desert_Viper) / [Gmail](Germes955@gmail.com)
 
-<img src="https://www.codewars.com/users/MarciusCoreolan/badges/small?theme=light"/> <img 
+<img src="https://www.codewars.com/users/MarciusCoreolan/badges/large?theme=light"/>
 
 <hr/>
 Мои проекты:
