@@ -12,11 +12,7 @@
 
 <br/>
 
-[Laros](https://laros.ch/) <br/>
-
-[Integral](http://188.34.179.198/)<br/>
-
-[Merlines](https://beta.merlines.ru/)<br/>
+[Laros](https://laros.ch/) <br/> [Integral](http://188.34.179.198/)<br/>  [Merlines](https://beta.merlines.ru/)<br/>
 
 [Ilonsishop](https://ilonsishop.com/en)<br/>
 
