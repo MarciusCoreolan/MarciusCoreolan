@@ -9,11 +9,16 @@
 <hr/>
 Проекты в которых я принимал участие:
 
-[Laros](https://laros.ch/))
+[Laros](https://laros.ch/)
+
 [Integral](http://188.34.179.198/)
+
 [Merlines](https://beta.merlines.ru/)
+
 [Ilonsishop](https://ilonsishop.com/en)
+
 [Bors](https://borsjakten.se/)
+
 [Space dog](https://space-dog.dev/)
 
 <hr/>
