@@ -8,14 +8,21 @@
 
 <hr/>
 Одни из проектов в которых я принимал участие:
+
 <br/>
-[Laros](https://laros.ch/)
-[Integral](http://188.34.179.198/)
-[Merlines](https://beta.merlines.ru/)
-[Ilonsishop](https://ilonsishop.com/en)
-[Bors](https://borsjakten.se/)
-[Space dog](https://space-dog.dev/)
-[Rualligator](https://rualligator.ru/)
+[Laros](https://laros.ch/) <br/>
+
+[Integral](http://188.34.179.198/)<br/>
+
+[Merlines](https://beta.merlines.ru/)<br/>
+
+[Ilonsishop](https://ilonsishop.com/en)<br/>
+
+[Bors](https://borsjakten.se/)<br/>
+
+[Space dog](https://space-dog.dev/)<br/>
+
+[Rualligator](https://rualligator.ru/)<br/>
 <br/>
 <hr/>
 
