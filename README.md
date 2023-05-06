@@ -7,7 +7,8 @@
 <img src="https://www.codewars.com/users/MarciusCoreolan/badges/large?theme=light"/>
 
 <hr/>
-Проекты в которых я принимал участие:
+Одни из проектов в которых я принимал участие:
+
 
 [Laros](https://laros.ch/)
 
@@ -20,6 +21,8 @@
 [Bors](https://borsjakten.se/)
 
 [Space dog](https://space-dog.dev/)
+
+[Rualligator](https://rualligator.ru/)
 
 <hr/>
 
