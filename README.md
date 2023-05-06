@@ -7,19 +7,14 @@
 <img src="https://www.codewars.com/users/MarciusCoreolan/badges/large?theme=light"/>
 
 <hr/>
-Мои проекты:
+Проекты в которых я принимал участие:
 
-Todo list [Код](https://github.com/MarciusCoreolan/todo) / [Демо](https://todo2222222222.herokuapp.com)
-
-React chat [Код](https://github.com/MarciusCoreolan/React_chat) / [Демо](https://reactchat222.herokuapp.com)
-
-Vertical slider [Код](https://github.com/MarciusCoreolan/Vertical_slider) / [Демо](https://marciuscoreolan.github.io/Vertical_slider/)
-
-Slider colapse [Код](https://github.com/MarciusCoreolan/Cards_slider) / [Демо](https://marciuscoreolan.github.io/Cards_slider/)
-
-Google books [Код](https://github.com/MarciusCoreolan/google_books) / [Демо](https://googlebooks302u023.herokuapp.com)
-
-Courses [Код](https://github.com/MarciusCoreolan/courses) / [Демо](https://courses01.herokuapp.com)
+[Laros](https://laros.ch/))
+[Integral](http://188.34.179.198/)
+[Merlines](https://beta.merlines.ru/)
+[Ilonsishop](https://ilonsishop.com/en)
+[Bors](https://borsjakten.se/)
+[Space dog](https://space-dog.dev/)
 
 <hr/>
 
