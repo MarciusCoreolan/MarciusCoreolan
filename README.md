@@ -7,14 +7,6 @@
 <img src="https://www.codewars.com/users/MarciusCoreolan/badges/large?theme=light"/>
 
 <hr/>
-Одни из проектов в которых я принимал участие:
-
-
-<br/>
-
-[Laros](https://laros.ch/) <br/> [Integral](http://188.34.179.198/)<br/>  [Merlines](https://beta.merlines.ru/)<br/> [Ilonsishop](https://ilonsishop.com/en)<br/> [Bors](https://borsjakten.se/)<br/> [Space dog](https://space-dog.dev/)<br/> [Rualligator](https://rualligator.ru/)<br/>
-<br/>
-<hr/>
 
 Experentia est optima magistra - Опыт есть лучший учитель
 
