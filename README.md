@@ -12,7 +12,7 @@ Experentia est optima magistra - Опыт есть лучший учитель
 
 Освоеные навыки
 
-<img src="https://img.shields.io/badge/HTML-4B0082?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/CSS-4B0082?style=for-the-badge&logo=css3&logoColor=fff"/>
+<img src="https://img.shields.io/badge/HTML-4B0082?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/CSS-116062?style=for-the-badge&logo=css3&logoColor=fff"/>
 <img src="https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/TypeScript-4B0082?style=for-the-badge&logo=typescript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/React-E97451?style=for-the-badge&logo=react&logoColor=fff"/>
