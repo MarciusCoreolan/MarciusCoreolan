@@ -15,10 +15,10 @@ Experentia est optima magistra - Опыт есть лучший учитель
 <img src="https://img.shields.io/badge/HTML-4B0082?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/CSS-4B0082?style=for-the-badge&logo=css3&logoColor=fff"/>
 <img src="https://img.shields.io/badge/JavaScript-4B0082?style=for-the-badge&logo=javascript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/TypeScript-4B0082?style=for-the-badge&logo=typescript&logoColor=fff"/>
-<img src="https://img.shields.io/badge/React-4B0082?style=for-the-badge&logo=react&logoColor=fff"/>
+<img src="https://img.shields.io/badge/React-E97451?style=for-the-badge&logo=react&logoColor=fff"/>
 <img src="https://img.shields.io/badge/NextJs-4B0082?style=for-the-badge&logo=nextdotjs&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Redux-4B0082?style=for-the-badge&logo=redux&logoColor=fff"/>
-<img src="https://img.shields.io/badge/ReduxToolkit-4B0082?style=for-the-badge&logo=redux&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Redux Toolkit-4B0082?style=for-the-badge&logo=redux&logoColor=fff"/>
 <img src="https://img.shields.io/badge/ReduxSaga-4B0082?style=for-the-badge&logo=reduxsaga&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Webpack-4B0082?style=for-the-badge&logo=webpack&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Git-4B0082?style=for-the-badge&logo=git&logoColor=fff"/>
