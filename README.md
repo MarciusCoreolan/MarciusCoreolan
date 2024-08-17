@@ -8,8 +8,6 @@
 
 <hr/>
 
-Experentia est optima magistra - Опыт есть лучший учитель
-
 Освоеные навыки
 
 <img src="https://img.shields.io/badge/HTML-4B0082?style=for-the-badge&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/CSS-116062?style=for-the-badge&logo=css3&logoColor=fff"/>
@@ -26,4 +24,4 @@ Experentia est optima magistra - Опыт есть лучший учитель
 
 <hr/>
 
-Scientia est potentia.
+Experentia est optima magistra - Опыт есть лучший учитель
